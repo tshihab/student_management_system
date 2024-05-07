@@ -6,7 +6,6 @@ A simple Student Management System built using Python tkinter and MySQL Connecto
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -30,16 +29,6 @@ The project consists of three main files:
 - **View All Student Records**: Teachers can view all student records stored in the database.
 - **Search for Students**: Teachers can search for students by roll number, course, and subject.
 - **Student Login**: Students can log in using their Student ID and Registration number to view their information.
-
-## Screenshots
-
-![Welcome Page](images/welcome_page.png)
-![Student Login](images/student_login.png)
-![Individual Data](images/individual_information.png)
-![Individual Data](images/individual_information.png)
-![Teacher's Login](images/teachers_login.png)
-![Data Entry Page](images/data_entry_page.png)
-![View All Data](images/view_all_data.png)
 
 ## Installation
 
